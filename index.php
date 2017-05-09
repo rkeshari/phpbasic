@@ -38,6 +38,9 @@
         <div class="navbar-header">
             <a class="navbar-brand" href="http://www.codingcage.com" title='Programming Blog'>Coding Cage</a>
             <a class="navbar-brand" href="http://www.codingcage.com/search/label/CRUD">CRUD</a>
+            <a class="navbar-brand" href="http://www.codingcage.com/search/label/CRUD">CRUD1</a>
+            <a class="navbar-brand" href="http://www.codingcage.com/search/label/CRUD">CRUD2</a>
+            <a class="navbar-brand" href="http://www.codingcage.com/search/label/CRUD">CRUD3</a>
             <a class="navbar-brand" href="http://www.codingcage.com/search/label/PDO">PDO</a>
             <a class="navbar-brand" href="http://www.codingcage.com/search/label/jQuery">jQuery</a>
             <a class="navbar-brand" href="http://www.codingcage.com/search/label/jQuery">js</a>
